@@ -47,4 +47,4 @@ Contributions are welcome! If you encounter any issues or have suggestions for i
 
 ## Connect with me
 
-[https://www.linkedin.com/in/ayushi-garg-44438a229/?trk=people-guest_people_search-card&originalSubdomain=in](Linkedln)
+[LinkedIn](https://www.linkedin.com/in/ayushi-garg-44438a229/?trk=people-guest_people_search-card&originalSubdomain=in)
