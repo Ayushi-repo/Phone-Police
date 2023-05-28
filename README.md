@@ -45,6 +45,6 @@ Phone Police is an Android app that allows users to turn on the flashlight and f
 
 Contributions are welcome! If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
 
-## License
+## Connect with me
 
-[MIT License](LICENSE)
+[https://www.linkedin.com/in/ayushi-garg-44438a229/?trk=people-guest_people_search-card&originalSubdomain=in](Linkedln)
