@@ -25,7 +25,7 @@ Phone Police is an Android app that allows users to turn on the flashlight and f
 
 ## Installation
 
-1. Clone the repository:https://github.com/uphargaur/Phone-Police.git
+1. Clone the repository:(https://github.com/Ayushi-repo/Phone-police)
 
 2. Open the project in Android Studio.
 
